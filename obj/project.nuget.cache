@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U4+otHtalSE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhurl\\source\\repos\\Member.API\\Member.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhurl\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\bhurl\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.0.0\\swashbuckle.aspnetcore.swagger.7.0.0.nupkg.sha512",
+    "C:\\Users\\bhurl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.0.0\\swashbuckle.aspnetcore.swaggergen.7.0.0.nupkg.sha512",
+    "C:\\Users\\bhurl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.0.0\\swashbuckle.aspnetcore.swaggerui.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
